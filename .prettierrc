@@ -1,0 +1,16 @@
+{
+    "printWidth": 100,
+    "tabWidth": 4,
+    "singleQuote": true,
+    "bracketSpacing": true,
+    "semi": true,
+    "overrides": [
+    {
+      "files": "{contracts/**/*fc}",
+      "options": {
+        "tabWidth": 4,
+        "printWidth": 80
+      }
+    }
+  ]
+}
